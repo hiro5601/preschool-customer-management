@@ -58,3 +58,37 @@ Windows用のインストーラーを実行
 
 ●vercel
 https://vercel.com/new?teamSlug=yamanes-projects-c32333a4
+
+
+
+●GitHubリポジトリの作成
+# プロジェクトディレクトリに移動
+cd C:\Users\user\OneDrive\Desktop\preschool_data
+
+# Gitリポジトリを初期化
+git init
+
+# ファイルをステージング
+git add .
+
+# 初回コミット
+git commit -m "Initial commit"
+
+# GitHubリポジトリを作成
+gh repo create preschool-customer-management --public
+
+# リモートリポジトリを追加
+git remote add origin https://github.com/hiro5601/preschool-customer-management.git
+
+# コードをプッシュ
+git push -u origin main
+
+＞Vercelでのデプロイ
+Vercelダッシュボードにアクセス
+「New Project」をクリック
+GitHubリポジトリを選択
+設定を確認してデプロイ
+
+
+
+
