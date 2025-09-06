@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "boreal-analog-464808-n0",
+  "private_key_id": "7fc11b486ec2124507b964b7da43f88262031885",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqdEx6eNpqdPMR\nOfZsTzSxwGB/Dh4mUTFtOUc7gytwT22VNvcB96kQTmhORGAzLpsYrj6aLnErKNIn\nmksu+NGWuRY4cVqbzJtWegyPwb3xe9av//MdXKEPyYWJNNx7hvML5yWf7VPL658z\n99ufcmK3j2rZXFZ5GZHZ7LxGf69pYFLvySEojVGjwDN89eBA+ZTKLOh2AvqbnT2h\n2C/+jhP9HjkXGGBcEI+Tno2rZM1JAwlHljkaHHNkXr/cZVlIUCZKphOPY7UJOkJm\nlMzeQ1lTkB5qxsfpNeqn1wMYwyBQyy9RlNXR79WVQhdcxYwNcqPNlkkvuDecLDDa\nKdVvjm2/AgMBAAECggEAAPMvrfusTJ7aHt2ckBrr8P2abzl8L2Ob/+wrblw8nNYo\nUNWHccENgKkHiv8boHO0k5n1rBajlGXiSuesjWTxNIELj/PzkuYWe129sV0nY5Z9\n8JhRItIM/ztF+Qwl630Fx1A3tRFdXKsKFs1oLDbcq/N4YhmPVIRRfCobnjnddzbl\nO/cP3lgJubGJ4xzm63+JjJ6no1L7RJJ+zo/lFuc2zE35ejozT6V/SJ0leAZP/y8r\ntRqqpzCRoMchcjc4NALA7Jurj5Uycz8TXNw/fXDYaEcaLL/tfm9G+0KmG0r8UbTp\na6xfOwoWoC5hMVHJ0NgHkMvkP6Ip9m/ByqAm5gaw4QKBgQDZ5h2BKWIfqjW9dfaW\nBq68NkAXniQJEXPqojjKvj9OWAZETIfliN3XbTi8fs5fQ+QWxUnQEsRSzJ0rdKq3\nX3WAs+NwWq13+C4rZchb3m5/Lt2cmcKgg652vGZ9FqdP7bRnBt6LoJteepq0Ufbr\n7anuREiuPzKPU54fKw2a4RkX6wKBgQDIQmeBq/5oKaPAM+oU6jnh3anwqlx5pr0q\n7WuiWigvQcr4Kgjx9/KXMs+5kaHn23PLOSlRVoKOc69vm0SbEJltxBwyM6rSuxQs\nLIwvm7tFjZDDbj6QPVe+/AbiCT2ccvgUhxih89S9TWbjT/QxNrJZMAGwFSJpRjRZ\nxwU0hzlAfQKBgQCVKVijNXANWxhEpP7zPonZH44KXOAwMPlX8krMRyXQ/KL1mCoj\nL+kk8oi3SFr/jdsS12UrAd3RDG6+87N1qewm+X3FSN2c1ZDNdnSMpxyfBbcA36UC\n+oGwmFHUaXCJX6ByMpqfnIcfSvCiZcWRRfVgvO/AEFUNFmGU1oUOs+7YlwKBgChU\n72G3UQqLcFZSXk+OCNBLg2Fb/jnl8e1GWcod3EAAQS+Pz7Nj23DGI/3crb3zfbOt\nNHwUL0EfXXLd04hjZHMt7vvRWhMM6HgpFKa195Z/d2tUtbb5E8X8HirB762lnf8M\nYlKjt/HUN+eJ/8U1nd/GgmCDMSYApKR8J7k3jrlFAoGAGcuRWrRBCe9ZAtrtwpks\naLlK9iRyCv1Ep1ja52dFF2zkX+qc5wULGe8qK1hVNXarjhyXAdeD1v7tno08S4cw\ncVu8/x865t/7vMYO3Hv51DyaCQpweCsOwRLxlpdnvfkZAYdN0DcBDyB81jGTFcWR\nNmrU7i2Xp0rn8XUnfvBXHPo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "preschool-sheets-api@boreal-analog-464808-n0.iam.gserviceaccount.com",
+  "client_id": "114202996223071667143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/preschool-sheets-api%40boreal-analog-464808-n0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

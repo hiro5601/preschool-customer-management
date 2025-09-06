@@ -1,0 +1,60 @@
+1.GASスクリプトの作成 (最優先)
+Google Forms → Google Sheets の自動連携
+トリガー設定
+
+2.顧客情報編集機能の追加
+フロントエンドで編集
+Google Sheets への更新
+
+3.Google Forms の設定
+顧客登録フォームの作成
+GAS との連携
+
+
+
+
+
+/with-1.net/
+
+●SSL化したらフォルダ移動させる
+現在TOKにある：/tok-p.com/public_html
+
+スプレッドシート
+https://docs.google.com/spreadsheets/d/1sbCnEnA2VzrrZp2tPwLq8hWiXQlDedXGtbniOUUdk_o/edit?gid=0#gid=0
+
+↑TOKでAPIを使用している為、上記で作成しないとデータが飛ぶ
+＞TOKグーグルアカウントを使用
+
+
+グーグルフォーム
+https://forms.gle/XtPNV1X5Kdr1XZ5SA
+
+GAS
+with-dogスクールｰ顧客
+
+
+●FTP
+手順：
+public_html/with-1-staf　ディレクトリに移動
+
+apiディレクトリを作成
+以下のファイルをアップロード：
+server.js
+package.json
+
+
+
+●Gitのインストール
+Git for Windowsからダウンロード
+インストーラーを実行してインストール
+インストール後、PowerShellを再起動
+5. Heroku CLIのインストール
+Heroku CLI公式サイトからダウンロード
+Windows用のインストーラーを実行
+
+
+
+
+
+●vercel
+https://vercel.com/new?teamSlug=yamanes-projects-c32333a4
