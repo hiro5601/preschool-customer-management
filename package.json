@@ -25,8 +25,7 @@
   },
   "scripts": {
     "start": "set REACT_APP_GOOGLE_API_KEY=AIzaSyDjy3GwK7s07X4oyEQfTHgrH8naHdkGClI && set REACT_APP_SPREADSHEET_ID=1sbCnEnA2VzrrZp2tPwLq8hWiXQlDedXGtbniOUUdk_o && set REACT_APP_GOOGLE_CLIENT_EMAIL=preschool-sheets-api@boreal-analog-464808-n0.iam.gserviceaccount.com && react-scripts start",
-    "build": "npm run build:react",
-    "build:react": "react-scripts build",
+    "build": "npx react-scripts build",
     "server": "node server.js",
     "dev": "concurrently \"npm run server\" \"npm start\"",
     "test": "react-scripts test",
